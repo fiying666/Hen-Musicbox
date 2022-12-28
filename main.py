@@ -90,7 +90,6 @@ def kb_binding(value):
                 return
             kb_ls.key_map[p.current_pack][key] = value
             close_popup()
-            # TODO 键盘绑定与冲突处理
         show_binded_keys_show()
         put_html('<hr>')
         put_button(label='确认', onclick=sava_and_quit)
