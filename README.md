@@ -34,6 +34,8 @@ pip install pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
 pyi-makespec --onefile main.py
 ```
 
+`--onefile` 参数：将应用打包成一个单独的可执行文件而非文件夹
+
 **3. 编辑生成的spec文件，在第二行添加内容，并将其中 Analysis 的 data 参数修改为**
 
 ```py
