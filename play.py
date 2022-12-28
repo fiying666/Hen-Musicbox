@@ -2,6 +2,9 @@ import keyboard
 import threading
 from sounds import sounds
 from playsound import playsound
+
+# TEST
+
 # 音频播放实现
 class play:
     def __init__(self, sd: sounds = None):
