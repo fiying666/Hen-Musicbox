@@ -56,4 +56,12 @@ pyinstaller -w main.spec
 
 ## 软件截图
 
+<img src="https://raw.githubusercontent.com/fiying666/Hen-Musicbox/main/src/imgs/main-page.png" alt="binding-mode" width="70%">
+
+<img src="https://raw.githubusercontent.com/fiying666/Hen-Musicbox/main/src/imgs/binding-mode.png" alt="binding-mode" width="70%">
+
+<img src="https://raw.githubusercontent.com/fiying666/Hen-Musicbox/main/src/imgs/p1.png" alt="binding-mode" width="70%">
+
+<img src="https://raw.githubusercontent.com/fiying666/Hen-Musicbox/main/src/imgs/save.png" alt="binding-mode" width="70%">
+
 > **音频资源来源于互联网，若有侵权请及时联系删除**
