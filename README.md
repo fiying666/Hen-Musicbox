@@ -20,6 +20,8 @@ pip install pywebio playsound keyboard -i https://pypi.tuna.tsinghua.edu.cn/simp
 ## 打包为EXE文件
 
 参考PyWebIO官方文档：[构建stand-alone App](https://pywebio.readthedocs.io/zh_CN/latest/libraries_support.html#build-stand-alone-app)
+
+
 **1. 安装Pyinstaller**
 
 ```shell
